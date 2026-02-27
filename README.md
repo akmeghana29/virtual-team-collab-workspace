@@ -1,12 +1,11 @@
 # Virtual Team Collaborative Workspace
 
-### Find the deployed website here
-## **https://vtcw.vercel.app/**
+## Find the deployed website here
+# **https://vtcw.vercel.app/**
 
----
 ## If you are not able to access it, open this:
 #
----
+--
 
 ## What is VTCW?
 
