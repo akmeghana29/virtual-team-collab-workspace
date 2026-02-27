@@ -176,3 +176,24 @@ This prevents hallucination and ensures the assistant can accurately answer ques
 
 
 
+<img src="./public/Screenshot 2026-02-27 212206.png" alt="Screenshot 1" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212158.png" alt="Screenshot 2" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212217.png" alt="Screenshot 3" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212226.png" alt="Screenshot 4" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212312.png" alt="Screenshot 5" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212300.png" alt="Screenshot 6" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212238.png" alt="Screenshot 7" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212335.png" alt="Screenshot 8" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212328.png" alt="Screenshot 9" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212321.png" alt="Screenshot 10" width="800"/>
+
+
