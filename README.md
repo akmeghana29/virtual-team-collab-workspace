@@ -1,11 +1,10 @@
 # Virtual Team Collaborative Workspace
 
-## Find the deployed website here
+## Deployed website in the link below
 # **https://vtcw.vercel.app/**
 
-## If you are not able to access it, open this:
-#
---
+# OR find screenshots of the website at the bottom of this README file.
+
 
 ## What is VTCW?
 
@@ -173,3 +172,15 @@ This prevents hallucination and ensures the assistant can accurately answer ques
 ---
 
 *Built by A Kirti Meghana*
+
+
+
+<img src="./public/Screenshot 2026-02-27 211323.png" alt="Screenshot 1" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 211350.png" alt="Screenshot 2" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 211409.png" alt="Screenshot 3" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 211423.png" alt="Screenshot 4" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 211440.png" alt="Screenshot 5" width="800"/>
