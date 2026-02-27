@@ -126,7 +126,7 @@ The dashboard is a glassmorphism rectangular box centered over a full-screen bac
 
 ## Data Structures - Dynamic Task Scheduling
 
-The backend implements a **Min-Heap Priority Queue** in `backend/lib/taskScheduler.js` to handle dynamic task scheduling based on deadlines.
+The backend implements a **Min-Heap Priority Queue** in to handle dynamic task scheduling based on deadlines.
 
 ### Why a Min-Heap?
 
