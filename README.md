@@ -4,10 +4,8 @@
 ## **https://vtcw.vercel.app/**
 
 ---
-
-> If you are not able to access it, open this:
-> ****
-
+## If you are not able to access it, open this:
+#
 ---
 
 ## What is VTCW?
