@@ -109,8 +109,8 @@ The dashboard is a glassmorphism rectangular box centered over a full-screen bac
 ### Backend
 - **Node.js** + **Express.js**
 - **Mongoose** - MongoDB ODM for schema definition and querying
-- **GridFS** via `multer-gridfs-storage` - stores uploaded files directly inside MongoDB
-- **JWT** (`jsonwebtoken`) — stateless authentication tokens
+- **GridFS** via multer-gridfs-storage - stores uploaded files directly inside MongoDB
+- **JWT** jsonwebtoken — stateless authentication tokens
 - **bcryptjs** - password hashing
 - **Multer** - multipart file upload handling
 - **dotenv** - environment variable management
@@ -118,8 +118,8 @@ The dashboard is a glassmorphism rectangular box centered over a full-screen bac
 
 ### Database
 - **MongoDB Atlas** Flex Tier
-- Collections: `users`, `tasks`, `resources`
-- GridFS bucket `uploads` for binary file storage
+- Collections: users, tasks, resources
+- GridFS bucket uploads for binary file storage
 - Hosted in Mumbai (ap-south-1) region
 
 ---
@@ -145,11 +145,11 @@ A min-heap is a complete binary tree where the parent node always has a smaller 
 
 When a task is created via the API, it is inserted into the heap using its `deadline` field converted to a Unix timestamp as the priority key. The heap bubbles it up to the correct position. The API returns the full `scheduledQueue` an array of tasks sorted by urgency alongside the created task.
 
-When a task is marked complete via `PATCH /api/tasks/:taskId/complete`, the `rescheduleOnCompletion` function:
+When a task is marked complete via PATCH /api/tasks/:taskId/complete, the rescheduleOnCompletion function:
 1. Filters out the completed task from the team's task list
 2. Rebuilds the heap from all remaining incomplete tasks
 3. Extracts them in order to produce a fresh priority queue
-4. Returns the updated `rescheduledQueue` to the frontend
+4. Returns the updated rescheduledQueue to the frontend
 
 This means if a member completes a task early, the next most urgent task automatically surfaces. If a task is completed late, the scheduler reassesses all remaining deadlines and surfaces any tasks now at risk of being missed. The frontend can use this queue to visually reorder task lists and flag urgent items.
 
