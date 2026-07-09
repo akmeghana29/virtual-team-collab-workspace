@@ -1,7 +1,6 @@
-# Virtual Team Collaborative Workspace
-
-## Deployed website in the link below
-# *https://vtcw.vercel.app/*
+## Virtual Team Collaborative Workspace
+# Deployed website in the link below
+https://vtcw.vercel.app/
 
 ## Screenshots
 
