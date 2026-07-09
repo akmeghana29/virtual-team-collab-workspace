@@ -3,8 +3,27 @@
 ## Deployed website in the link below
 # **https://vtcw.vercel.app/**
 
-# OR find screenshots of the website at the bottom of this README file.
+## Screenshots
 
+<img src="./public/Screenshot 2026-02-27 212206.png" alt="Screenshot 1" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212158.png" alt="Screenshot 2" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212217.png" alt="Screenshot 3" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212226.png" alt="Screenshot 4" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212312.png" alt="Screenshot 5" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212300.png" alt="Screenshot 6" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212238.png" alt="Screenshot 7" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212335.png" alt="Screenshot 8" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212328.png" alt="Screenshot 9" width="800"/>
+
+<img src="./public/Screenshot 2026-02-27 212321.png" alt="Screenshot 10" width="800"/>
 
 ## What is VTCW?
 
@@ -170,26 +189,5 @@ On each query, the top 4 most semantically relevant chunks are retrieved and pas
 *Built by A Kirti Meghana*
 
 
-
-
-<img src="./public/Screenshot 2026-02-27 212206.png" alt="Screenshot 1" width="800"/>
-
-<img src="./public/Screenshot 2026-02-27 212158.png" alt="Screenshot 2" width="800"/>
-
-<img src="./public/Screenshot 2026-02-27 212217.png" alt="Screenshot 3" width="800"/>
-
-<img src="./public/Screenshot 2026-02-27 212226.png" alt="Screenshot 4" width="800"/>
-
-<img src="./public/Screenshot 2026-02-27 212312.png" alt="Screenshot 5" width="800"/>
-
-<img src="./public/Screenshot 2026-02-27 212300.png" alt="Screenshot 6" width="800"/>
-
-<img src="./public/Screenshot 2026-02-27 212238.png" alt="Screenshot 7" width="800"/>
-
-<img src="./public/Screenshot 2026-02-27 212335.png" alt="Screenshot 8" width="800"/>
-
-<img src="./public/Screenshot 2026-02-27 212328.png" alt="Screenshot 9" width="800"/>
-
-<img src="./public/Screenshot 2026-02-27 212321.png" alt="Screenshot 10" width="800"/>
 
 
